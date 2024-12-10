@@ -1,91 +1,77 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Johannes Bauer's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Johannes Bauer
+Electrical Engineer with a focus on power electronics, drives, and machinery.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:johannes.jb.bauer@siemens.com">johannes.jb.bauer@siemens.com</a> | 
+<a href="www.linkedin.com/in/johannes-bauer-4199b8233">LinkedIn Profile</a> | 
++49 1525 4095919 | 
+Schwanhardstraße 27, 90478 Nuernberg, Germany
 </div>
 
+## Summary
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Master in Electrical Engineering with a specialization in power electronics, drives, and machinery. Gained practical experience through a part-time job in a local motorcycle workshop. Worked as a student assistant in development and project management alongside studies. Known for being responsible, diligent, and persistent. Areas for improvement include becoming more outgoing, relaxed, and less detail-oriented. Currently completing a master's thesis and seeking the next professional challenge.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2023 - Present`
+**Master of Engineering** in Electronic and Mechatronic Systems  
+Technische Hochschule Georg Simon Ohm, Nuremberg  
+Grade: 1.2 (excellent)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2019 - 2023`
+**Bachelor of Engineering** in Electrical and Information Technology  
+Technische Hochschule Georg Simon Ohm, Nuremberg  
+Grade: 1.7 (good)
 
-- Sizar
+`2016 - 2019`
+**Apprenticeship as an Electronics Technician for Devices and Systems**  
+Siemens AG, Erlangen  
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Work Experience
 
-- Fellow
+`2019 - 2024`
+**Part-time Job in Automotive Electronics**  
+13 Kraftrad, Gerhardshofen  
+- Troubleshooting electrical systems and rewiring classic vehicles.  
+- Independent and responsible work.
 
+`2023 - 2024`
+**Master Thesis**  
+Siemens Mobility RS CP R&D 3 4, Nuremberg  
+- Investigating solutions for switching gate resistors in driver circuits for power semiconductors.
 
+`2022 - 2023`
+**Student Assistant in Development**  
+Siemens Mobility RS CP R&D 3 4, Nuremberg  
+- Laboratory setups, circuit design, and diagnostics.
 
-## Awards
+`2022`
+**Bachelor Thesis**  
+Siemens Mobility RS CP R&D 3 4, Nuremberg  
+- Design and analysis of a circuit for controlling pyrotechnic fast-switching devices.
 
-`2012`
-President, *Royal Society*, London, UK
+`2021 - 2022`
+**Student Assistant in Project Management**  
+Siemens Commercial Vehicles, Nuremberg  
+- Attended customer meetings, performed design checks, and adhered to project processes.
 
-Associate, *French Academy of Science*, Paris, France
+## Skills
 
+- **Technical Tools:** Autodesk Suite, LT-Spice/P-Spice  
+- **Languages:** Fluent in English and Romanian  
+- **Office Tools:** Microsoft Office Suite  
 
+## Hobbies
 
-## Publications
+- **Sports:** Team sports, especially volleyball and basketball  
+- **Electronics Projects:** Building innovative devices, such as a 3D printer and a CO2 laser  
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+---
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+_Nuernberg, December 10, 2024_
