@@ -19,7 +19,7 @@ Master in Electrical Engineering with a specialization in power electronics, dri
 
 ## Education
 
-`2023 - Present`
+`2023 - 2024`
 **Master of Engineering** in Electronic and Mechatronic Systems  
 Technische Hochschule Georg Simon Ohm, Nuremberg  
 Grade: 1.2 (excellent)
