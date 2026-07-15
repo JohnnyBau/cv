@@ -35,6 +35,11 @@ Siemens AG, Erlangen
 
 ## Work Experience
 
+`2024 - ongoing`
+**Full-time Siemens Hardware Engineering Electronics**  
+Siemens Mobility GmbH, Nürnberg  
+- R&D: Working on SIBAS (Siemens Bahnautomatisierungssystem) assemblies, focusing on electrical engineering schematics and PCB layout.
+
 `2019 - 2024`
 **Part-time Job in Automotive Electronics**  
 13 Kraftrad, Gerhardshofen  
@@ -43,18 +48,18 @@ Siemens AG, Erlangen
 
 `2023 - 2024`
 **Master Thesis**  
-Siemens Mobility RS CP R&D 3 4, Nuremberg  
-- Investigating solutions for switching gate resistors in driver circuits for power semiconductors.
+Siemens Mobility GmbH, Nuremberg  
+- R&D: Investigating solutions for switching gate resistors in driver circuits for power semiconductors.
 
 `2022 - 2023`
 **Student Assistant in Development**  
-Siemens Mobility RS CP R&D 3 4, Nuremberg  
-- Laboratory setups, circuit design, and diagnostics.
+Siemens Mobility GmbH, Nuremberg  
+- R&D: Laboratory setups, circuit design, and diagnostics.
 
 `2022`
 **Bachelor Thesis**  
-Siemens Mobility RS CP R&D 3 4, Nuremberg  
-- Design and analysis of a circuit for controlling pyrotechnic fast-switching devices.
+Siemens Mobility GmbH, Nuremberg  
+- R&D: Design and analysis of a circuit for controlling pyrotechnic fast-switching devices.
 
 `2021 - 2022`
 **Student Assistant in Project Management**  
